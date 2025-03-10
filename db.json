@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "title": "Exploring the Wonders of the Universe",
+      "description": "A deep dive into the mysteries of the cosmos and what lies beyond our understanding.",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "The Rise of Artificial Intelligence",
+      "description": "An exploration of how AI is reshaping industries and our daily lives, from healthcare to autonomous vehicles."
+    },
+    {
+      "id": "1b70",
+      "title": "The Future of Remote Work",
+      "description": "A discussion on how the pandemic accelerated the shift to remote work and its long-term effects on businesses and employees."
+    },
+    {
+      "id": "3",
+      "title": "Understanding Quantum Computing",
+      "description": "A beginner's guide to quantum computing and its potential to revolutionize technology and science."
+    },
+    {
+      "id": "4",
+      "title": "The Art of Minimalism",
+      "description": "How adopting a minimalist lifestyle can lead to greater happiness and focus by decluttering both your space and mind."
+    },
+    {
+      "id": "5",
+      "title": "History of the Internet",
+      "description": "A comprehensive look at the evolution of the internet, from its humble beginnings to the global network we rely on today."
+    },
+    {
+      "id": "6",
+      "title": "The Psychology of Colors",
+      "description": "An exploration of how colors influence our emotions, decisions, and perceptions in everyday life."
+    }
+  ]
+}
