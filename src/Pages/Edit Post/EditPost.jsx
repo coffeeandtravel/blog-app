@@ -23,7 +23,7 @@ const EditPost = () => {
     const title = form.title.value;
     const description = form.description.value;
 
-    // Reset the error state at the beginning
+
     setError("");
 
     if (title === "" || description === "") {
@@ -31,9 +31,9 @@ const EditPost = () => {
       return;
     }
 
-    // Update the post via PUT request
+
     axios.put(`http://localhost:5000/posts/${id}`, { title, description })
-      .then(() => navigate("/")) // Redirect to homepage after successful update
+      .then(() => navigate("/")) 
       .catch((error) => console.log("Error updating post:", error));
   };
 
